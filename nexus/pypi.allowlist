@@ -1,0 +1,16 @@
+contourpy
+cycler
+duckdb
+fonttools
+kiwisolver
+matplotlib
+numpy
+packaging
+pandas
+pillow
+pyparsing
+python-dateutil
+pytz
+six
+tzdata
+uv
