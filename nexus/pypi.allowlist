@@ -21,4 +21,5 @@ snakemake
 snakemake-storage-plugin-s3
 tzdata
 uv
+uv-build
 
