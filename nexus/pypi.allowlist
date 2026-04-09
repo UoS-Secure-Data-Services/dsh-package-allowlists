@@ -105,6 +105,7 @@ reretry
 rpds-py
 ruff
 s3fs
+s3transfer
 scipy
 setuptools
 shapely
