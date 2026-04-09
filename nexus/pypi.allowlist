@@ -16,8 +16,8 @@ charset-normalizer
 codecov
 conda-inject
 configargparse
-connection-pool
 connection_pool
+connection-pool
 contourpy
 coverage
 cycler
@@ -128,6 +128,7 @@ tables
 tabulate
 tenacity
 throttler
+tomli
 traitlets
 typing-extensions
 typing-inspection
