@@ -137,6 +137,7 @@ urllib3
 uv
 uv-build
 virtualenv
+wheel
 wrapt
 xarray
 xlrd
