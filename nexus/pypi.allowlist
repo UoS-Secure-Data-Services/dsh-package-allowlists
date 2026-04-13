@@ -84,7 +84,7 @@ pre_commit
 psutil
 psycopg
 psycopg2
-psycopg[binary]
+psycopg
 pulp
 PuLP
 pyarrow
